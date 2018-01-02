@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>RebarEdit.dll</Assembly>
+    <ClientId>2fe14bf2-afac-476b-9c44-8bc934e608df</ClientId>
+    <FullClassName>RebarEdit.Command</FullClassName>
+    <Text>Command</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

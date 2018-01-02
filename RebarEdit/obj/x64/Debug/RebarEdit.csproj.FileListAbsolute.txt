@@ -1,0 +1,7 @@
+D:\My Project\CDADtools4Revit\RebarEdit\RebarEdit\obj\x64\Debug\RebarEdit.csprojResolveAssemblyReference.cache
+D:\My Project\CDADtools4Revit\RebarEdit\RebarEdit\obj\x64\Debug\RebarEdit.EditForm.resources
+D:\My Project\CDADtools4Revit\RebarEdit\RebarEdit\obj\x64\Debug\RebarEdit.csproj.GenerateResource.Cache
+D:\My Project\CDADtools4Revit\RebarEdit\RebarEdit\bin\x64\Debug\RebarEdit.dll
+D:\My Project\CDADtools4Revit\RebarEdit\RebarEdit\bin\x64\Debug\RebarEdit.pdb
+D:\My Project\CDADtools4Revit\RebarEdit\RebarEdit\obj\x64\Debug\RebarEdit.dll
+D:\My Project\CDADtools4Revit\RebarEdit\RebarEdit\obj\x64\Debug\RebarEdit.pdb
